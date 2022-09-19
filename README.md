@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👋 Hi, I’m @DebasishDas97
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React.js
