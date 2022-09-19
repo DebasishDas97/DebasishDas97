@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=2000&t=st=1663586492~exp=1663587092~hmac=fa57ccc1b4c1b36964de889822930e64a9b7d9bfc3067957fff23080c8aac35d))
+[![MasterHead](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=2000&t=st=1663586492~exp=1663587092~hmac=fa57ccc1b4c1b36964de889822930e64a9b7d9bfc3067957fff23080c8aac35d)
 <h1 align="center">Hi 👋, I'm Debasish Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
