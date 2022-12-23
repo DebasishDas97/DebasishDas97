@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 - 🔭 I’m currently working at Brahmaputra Diaries (https://brahmaputradiaries.online/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Web Development, SEO**
 
