@@ -18,14 +18,37 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/debasish_das_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debasish_das_97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debasish-das-1824b2224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debasish-das-1824b2224/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100006183661170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006183661170" height="30" width="40" /></a>
-<a href="https://instagram.com/debasish_das__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/debasish_das__/" height="30" width="40" /></a>
+<a href="https://twitter.com/debasish_das_97" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/110322488/211968732-cd861e70-37f4-4fbd-98d5-f78f1e3f5d9c.png" alt="debasish_das_97" height="30" width="30" />
+  </a>
+<a href="https://linkedin.com/in/debasish-das-1824b2224/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110322488/211968887-81c5ced8-9250-495b-80f7-fd54c45fdee2.png" alt="https://www.linkedin.com/in/debasish-das-1824b2224/" height="30" width="30" /></a>
+<a href="https://fb.com/profile.php?id=100006183661170" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110322488/211969039-28daae42-f898-439d-ab1a-60bd2e787839.png" alt="https://www.facebook.com/profile.php?id=100006183661170" height="30" width="30" /></a>
+<a href="https://instagram.com/debasish_das__/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110322488/211969144-4fc1ba4e-c245-4dee-8939-4498743f7960.png" alt="https://www.instagram.com/debasish_das__/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div style="display: flex; align-items: center;">
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/110322488/211968568-c39258a4-9372-4866-bbb7-951ce010a616.png" />
+<img align="left" alt="Wordpress" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/110322488/211968452-02c31c69-a454-4509-8fd2-cd9fce53aa27.png" />
+</div>
+<br /><br /><br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishdas97&show_icons=true&locale=en&layout=compact" alt="debasishdas97" /></p>
+
+<br /><br /><br /><br /><br /><br />
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebasishDas97&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 
