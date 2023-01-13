@@ -36,19 +36,9 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/110322488/211968568-c39258a4-9372-4866-bbb7-951ce010a616.png" />
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/110322488/211968452-02c31c69-a454-4509-8fd2-cd9fce53aa27.png" />
+<img align="left" alt="Wordpress" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/110322488/212232031-f340fb39-65ea-4ebb-a3a1-647291a6fc49.png" />
 </div>
 <br /><br /><br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasishdas97&show_icons=true&locale=en&layout=compact" alt="debasishdas97" /></p>
-
-<br /><br /><br /><br /><br /><br />
-
-### 📊 Stats
-
-https://github-readme-stats.vercel.app/api?username=DebasishDas97&show_icons=true&theme=radical
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 
