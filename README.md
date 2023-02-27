@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Testing**
 
-- 💬 Ask me about **Web Development, SEO**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **debasishdas1996.dd@gmail.com**
 
