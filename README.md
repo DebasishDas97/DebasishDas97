@@ -30,7 +30,7 @@
 <div style="display: flex; align-items: center;">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,js,webpack,vite,html,css,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,js,github,wordpress,git,vite,html,css,tailwind&perline=6" />
   </p>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
