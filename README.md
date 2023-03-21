@@ -28,18 +28,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <div style="display: flex; align-items: center;">
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <p align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,js,github,wordpress,git,vite,html,css,tailwind&perline=6" />
-  </p>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/110322488/211968568-c39258a4-9372-4866-bbb7-951ce010a616.png" />
-<img align="left" alt="Wordpress" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/110322488/211968452-02c31c69-a454-4509-8fd2-cd9fce53aa27.png" />
-<img align="left" alt="Wordpress" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/110322488/212232031-f340fb39-65ea-4ebb-a3a1-647291a6fc49.png" />
 </div>
 <br /><br /><br />
 
