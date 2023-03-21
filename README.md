@@ -26,6 +26,11 @@
 <a href="https://instagram.com/debasish_das__/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110322488/211969144-4fc1ba4e-c245-4dee-8939-4498743f7960.png" alt="https://www.instagram.com/debasish_das__/" height="30" width="30" /></a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=DebasishDas97&show_icons=true&count_private=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebasishDas97&layout=compact&theme=radical)
+
+
 <h3 align="left">Languages and Tools :</h3>
 <div style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,js,github,wordpress,git,vite,html,css,tailwind&perline=6" />
