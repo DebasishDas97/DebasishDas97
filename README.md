@@ -15,11 +15,13 @@
 - 📚 I like to read books
 
 - 🚗 I like to travel
-- <br /><br />
+
+
+<br />
 
 
 ![](https://github-readme-stats.vercel.app/api?username=DebasishDas97&show_icons=true&count_private=true&theme=radical)
-<br /><br />
+<br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebasishDas97&layout=compact&theme=radical)
 
@@ -28,7 +30,6 @@
 <div style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=react,redux,ts,js,github,wordpress,git,vite,html,css,tailwind&perline=6" />
 </div>
-<br /><br />
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
