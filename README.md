@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Debasish Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
-- 🔭 I’m currently working at <a font-weight="bold" href="https://brahmaputradiaries.online/">Brahmaputra Diaries</a>
+- 🔭 I’m currently working at <a font-weight="bold" href="https://ibridgedigital.com/">Ibridge Digital</a>
 
 - 🌱 I’m currently learning **Testing**
 
